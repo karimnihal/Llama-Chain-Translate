@@ -5,6 +5,7 @@ cache/
 hypothesis.txt
 improved_translations.txt
 source.txt
+.ipynb
 
 # OS-specific files
 .DS_Store
