@@ -1,0 +1,12 @@
+together
+pandas
+termcolor
+pexpect
+scipy
+ipdb
+absl-py
+diskcache
+requests
+python-dotenv
+nltk
+sacrebleu
