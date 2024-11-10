@@ -2,6 +2,9 @@
 .idea
 __pycache__
 cache/
+hypothesis.txt
+improved_translations.txt
+source.txt
 
 # OS-specific files
 .DS_Store
